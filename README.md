@@ -5,7 +5,7 @@
 <body>
 <center>
 <h2>BIODATA DIRI</h2>
-<img src="foto-kamu.jpg" width="150">
+
 <hr>
   
 <table border="0">
